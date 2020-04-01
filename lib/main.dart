@@ -5,7 +5,9 @@ void main() {
       MaterialApp(
         home: Scaffold(
           appBar: AppBar(
-
+            title: Center(
+              child: Text('Magic 8 ball'),
+            ),
           ),
         ),
       ),
