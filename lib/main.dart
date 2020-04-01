@@ -4,6 +4,7 @@ void main() {
   return runApp(
       MaterialApp(
         home: Scaffold(
+          backgroundColor: Colors.blue,
           appBar: AppBar(
             title: Center(
               child: Text('Magic 8 ball'),
