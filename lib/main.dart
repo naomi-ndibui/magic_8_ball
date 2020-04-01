@@ -9,6 +9,7 @@ void main() {
             title: Center(
               child: Text('Magic 8 ball'),
             ),
+            backgroundColor: Colors.blue.shade700,
           ),
         ),
       ),
